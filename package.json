@@ -1,0 +1,11 @@
+{
+  "name": "Node-in-depth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/2json/Node-in-depth.git",
+  "author": "zhaosaisai <zhaosaisai@weidian.com>",
+  "license": "MIT",
+  "dependencies": {
+    "baudio": "^2.1.2"
+  }
+}
